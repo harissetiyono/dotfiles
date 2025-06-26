@@ -11,14 +11,6 @@ This repository contains my personal configuration for:
 
 ---
 
-## 📁 Structure
-
-├── aerospace / # Config for Aerospace (Wayland WM)
-├── kitty / # Config for Kitty terminal
-├── nvim / # LazyVim-based Neovim config
-├── tmux / # Tmux config with custom themes & keybindings
-└── README.md # You are here
-
 ## 🚀 Installation
 
 Clone the repo and symlink what you need:
