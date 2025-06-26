@@ -2,7 +2,7 @@
 
 This repository contains my personal configuration for:
 
-- ✨ [Aerospace](https://github.com/siduck/aerospace) — Tiling window manager (Wayland)
+- ✨ [Aerospace](https://github.com/nikitabobko/AeroSpace) — AeroSpace is an i3-like tiling window manager for macOS
 - 🐱 [Kitty](https://sw.kovidgoyal.net/kitty/) — Fast, GPU-powered terminal
 - 🧠 [Neovim](https://neovim.io/) — Configured with LazyVim for modern development
 - 🔧 [Tmux](https://github.com/tmux/tmux) — Terminal multiplexer with a custom statusline
@@ -13,13 +13,11 @@ This repository contains my personal configuration for:
 
 ## 📁 Structure
 
-├── aerospace/ # Config for Aerospace (Wayland WM)
-├── kitty/ # Config for Kitty terminal
-├── nvim/ # LazyVim-based Neovim config
-├── tmux/ # Tmux config with custom themes & keybindings
+├── aerospace / # Config for Aerospace (Wayland WM)
+├── kitty / # Config for Kitty terminal
+├── nvim / # LazyVim-based Neovim config
+├── tmux / # Tmux config with custom themes & keybindings
 └── README.md # You are here
-
----
 
 ## 🚀 Installation
 
